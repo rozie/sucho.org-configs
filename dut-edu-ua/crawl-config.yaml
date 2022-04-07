@@ -1,0 +1,8 @@
+collection: "dut-edu-ua"
+workers: 6
+saveState: always
+seeds:
+  - url: https://dut.edu.ua/
+    scopeType: "domain"
+    exclude:
+      - .*search_request=.*

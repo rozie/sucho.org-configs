@@ -1,0 +1,8 @@
+collection: "vtl-in-ua"
+workers: 6
+saveState: always
+seeds:
+  - url: https://vtl.in.ua/
+    scopeType: "domain"
+#    exclude:
+#      - .*\/\/\/.*
